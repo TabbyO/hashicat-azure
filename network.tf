@@ -20,7 +20,7 @@ module "network" {
 
   tags = {
     environment = "dev"
-    Department  = "it"
+    Department  = "none"
     Billable    = "true"
   }
 
